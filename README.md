@@ -1,10 +1,10 @@
 
-# Mini Project
-
+# Mini Project Sales Trend Analysis(G16-SQL AND POWER BI)
 A brief description of what this project does and who it's for
 
 problem statement:
-sales trend analysis
+# Sales Trend Analysis
+## Guidance Mrs. Siddhika Shah
 
 
 Introduction:
