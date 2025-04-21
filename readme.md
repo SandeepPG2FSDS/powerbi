@@ -266,42 +266,61 @@ Methodology and Results
 
 Methods/Technology Used:
 The project applies Data Analytic and Business Intelligence (BI) methodologies to transform raw Amazon sales data into meaningful insights. It includes:
+
 ●Data pre-processing: Cleaning and transforming the sales, product, and order status data using Power Query Editor in Power BI.
+
 ●Data modeling: Establishing relationships between tables (e.g., sales, products, reviews, and shipping), and creating DAX measures for calculations like total sales, units, and returns.
+
 ●Interactive visualization: Utilizing bar charts, line graphs, slicers, and buttons to uncover patterns in sales trends, product performance, and regional distribution.
+
 ●Descriptive analysis: Summarizing sales history to show what products and locations contributed most to revenue and units sold.
 
 
 Tools/Software Used:
+
 ●Microsoft Power BI Desktop: Primary tool for dashboard creation, data modeling, and interactive visualization.
+
 ●Power Query Editor: Used for cleaning, filtering, and shaping the data before analysis.
+
 ●DAX (Data Analysis Expressions): For creating custom KPIs, aggregations, and calculations.
+
 ●Excel/CSV Files: Data source format used for importing Amazon sales and product data.
+
 ●MS Excel or Google Sheets: For initial inspection or minor data adjustments before loading into Power BI.
 
-
 Data Collection Approach:
+
 Dataset:The data is collected by GitHub available projects.
 
 Project Architecture:
+
 Data Cleaning:
 Remove duplicates, handle missing values, and correct inaccuracies in the data Standardize data formats (e.g., currency adjustments, date formats).
+
 Data Analysis Layer
+
 Statistical Analysis:Employ statistical techniques (e.g., regression analysis, correlation analysis) to analyze relationships between cost of living components and demographic factors.
 Comparative Analysis:Use comparative metrics to evaluate differences in cost of living between regions.
+
 Trend Analysis:Analyze historical data to identify trends in living costs over time, using time series analysis.
 Data Visualization Layer
+
 Visualization Tools:
 Create dashboards that summarize key findings and allow users to explore data dynamically.
+
 Reports:Generate comprehensive reports that include visual data representations, analysis results, and recommendations.
 Results Interpretation Layer
+
 Insights Generation:
 Assess findings to derive meaningful insights regarding regional cost differences.
 Review demographic impacts and identify notable trends.
+
 Recommendations:
 Formulate strategic recommendations based on insights for individuals, businesses, and policymakers.
+
 User Interface Layer
 Develop a user-friendly web application that allows stakeholders to interact with the analysis results, perform cost comparisons, and visualize data.
+
 Feedback Loop
 User Feedback:Regular updates to the data and methodology based on user feedback and changing economic conditions.
 
@@ -334,10 +353,6 @@ GitHub Link
 
 
 https://github.com/SandeepPG2FSDS/powerbi
-
-
-
-Learning and Reflection
 
 
 Learning and Reflection
@@ -391,30 +406,33 @@ Expense Management: Identification of areas where individuals or families can re
 Purchasing Power Analysis: Insights on how various demographic groups are affected by cost of living in different regions, highlighting any inequities.
 
 
-
-
-
-
-
 Conclusion and Future Scope
 
 
 Objectives
 The primary goals of this project were to:
+
 1.Clean and Prepare Raw Data
 Transform raw Amazon sales and product data into a clean and structured format using Power Query Editor.
+
 2.Build Interactive Dashboards
 Design dynamic, multi-page dashboards that visualize sales performance, product trends, and geographic distribution.
+
 3.Perform Data Modeling
 Create relationships between sales, products, and order status tables, and define calculated columns and DAX measures for key metrics.
+
 4.Visualize Key Insights
 Use visuals such as bar charts, line graphs, cards, and slicers to highlight sales patterns, best-selling products, and high-return regions.
+
 5.Enable User Interactivity
 Allow users to explore data interactively by filtering through date ranges, product categories, and delivery statuses.
+
 6.Enhance Decision Making
 Equip	business	stakeholders	with	insightful	visuals	that support quicker, data-driven decisions in areas like sales strategy and logistics.
+
 7.Ensure Scalability
 Develop the dashboard with flexibility to incorporate additional data sources or advanced analytic features like forecasting in the future.
+
 8.Improve Analytical Skills
 Strengthen proficiency in data visualization, dashboard building, and applying BI tools like Power BI and DAX for real-world analysis.
 
@@ -422,18 +440,25 @@ Strengthen proficiency in data visualization, dashboard building, and applying B
 Achievements
 1.Successfully Designed Sales Dashboards
 Developed a multi-page Power BI dashboard to visualize Amazon sales performance, product insights, and geographic trends using interactive visuals and slicers.
+
 2.Advanced Data Modeling
 Established clear relationships between sales, product, and order status tables; created calculated columns and DAX measures to generate meaningful KPIs such as total sales, units sold, and returns.
+
 3.Data Transformation and Cleaning
 Used Power Query Editor to clean raw datasets by removing duplicates, correcting data types, renaming columns, and preparing the data for seamless analysis.
+
 4.Insightful Visualizations
 Created impact visual elements including bar charts, line graphs, cards, and slicers that highlight top-performing products, review patterns, and region-wise sales distribution.
+
 5.User-Friendly Interface
 Built an intuitive, easy-to-navigate dashboard layout that allows users to interact with data using category filters, date slicers, and status selection for focused analysis.
+
 6.Demonstrated Analytical Thinking
 Uncovered valuable insights such as best-selling cities, high-return products, and sales trends—demonstrating strong analytical reasoning and business understanding.
+
 7.Scalability and Future-Readiness
 Designed the dashboard to be scale able, allowing for the future integration of live data, trend forecasting, and additional analytical features.
+
 8.Skill Development
 Enhanced hands-on skills in Power BI, DAX, data modeling, and visual storytelling—boosting both technical expertise and real-world data analysis capability.
 
